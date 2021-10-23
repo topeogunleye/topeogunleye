@@ -15,7 +15,7 @@
 - 🔭 I’m currently training to become a full-stack software developer
 - 🌱 I’m currently learning how to build great software at [Microverse Inc](https://github.com/microverseinc)
 - :computer: Language stack: JavaScript, Tailwind CSS, Firebase, Rails, React
-- :book: In love with fictional books
+- 🌱 In love with building healthy habits using the [Fabulous app].(https://www.thefabulous.co)
 
 
 ## Stats
