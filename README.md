@@ -12,8 +12,8 @@
 
 ## About Me :man:
 
-- 🔭 I’m currently training to become a full-stack software developer
-- 🌱 I’m currently learning how to build great software at [Microverse Inc](https://github.com/microverseinc)
+- 🔭 I am a software developer who has worked on various projects with developers from across the world using JavaScript, React, Redux, and Rails.
+- 🌱 I currently assist more than 1000 students in resolving coding errors and grasping technical concepts, using Github and Slack to provide timely responses and support. at [Microverse Inc](https://github.com/microverseinc)
 - :computer: Language stack: JavaScript, Webpack, HTML & CSS, Tailwind CSS, Firebase, Postgresql React, Ruby on Rails.
 - 🌱 In love with building healthy habits using the [Fabulous app](https://thefabulous.co)
 
